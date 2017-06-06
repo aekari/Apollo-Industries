@@ -3,3 +3,44 @@
 	padding: 0;
 	margin:0;
 }
+
+
+/*NAVBAR RELATED*/
+nav{
+	background-color: #202b2e;
+	width:100%;
+	padding:15px 0;
+	text-align: center;
+	color:white;
+}
+
+nav ul{
+}
+
+.navlinks{
+	padding: 0 20px;
+	border: solid green;
+	float:left;
+	list-style: none;
+	text-decoration: none;
+}
+
+#logoimg{
+	content: url(../images/logo.png);
+	height:20px;
+}
+
+/*HEADER RELATED*/
+
+.header{
+	background-image:url(../images/headerimage.jpg);
+	padding:200px;
+	width:100%;
+	text-align:center;
+	color:#fff;
+}
+
+.header h1{
+	background-color: #000;
+	padding: 1%;
+}
